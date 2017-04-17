@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bunnymq": "^2.2.2",
+    "mysql": "^2.13.0"
+  }
+}
